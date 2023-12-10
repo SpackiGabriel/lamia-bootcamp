@@ -1,4 +1,4 @@
-# Projeto Final do Bootcamp do LAMIA
+# Bootcamp de Visão Computacional e Aprendizado de Máquina - LAMIA
 
 ## LAMIA
 
