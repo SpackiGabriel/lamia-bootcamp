@@ -6,10 +6,10 @@ O Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria (LAM
 
 ![LAMIA logo](/images/lamia.png)
 
-## Bootcamp e jornada
+## Sobre a jornada
 
 Ao juntar-se ao laboratório é necessário completar um período de treinamento (bootcamp) e apresentar um projeto final que demonstre suas habilidades e contribuições. Durante esse período, os participantes são considerados novatos e têm um prazo para concluir seu bootcamp. O laboratório atua em diversas áreas, e eu optei por me dedicar à área de Visão Computacional e Aprendizado de Máquina.
 
-## Sobre o Bootcamp
+## Sobre o bootcamp
 
 O Bootcamp oferecido pelo LAMIA é uma imersão intensiva e prática no universo da Ciência de Dados, Visão Computacional e Aprendizado de Máquina. Projetado para capacitar os participantes com as habilidades e conhecimentos essenciais para enfrentar desafios do mundo real, o Bootcamp combina teoria e prática de forma equilibrada.
